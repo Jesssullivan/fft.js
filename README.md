@@ -1,5 +1,5 @@
 # FFT.js
-[![Build Status](https://secure.travis-ci.org/indutny/fft.js.svg)](http://travis-ci.org/indutny/fft.js)
+[![Build Status](https://secure.travis-ci.org/Jesssullivan/fft.js.svg)](http://travis-ci.org/Jesssullivan/fft.js)
 [![NPM version](https://badge.fury.io/js/fft.js.svg)](https://badge.fury.io/js/fft.js)
 
 Implementation of Radix-4 FFT.
